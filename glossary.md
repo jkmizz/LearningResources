@@ -14,6 +14,8 @@ Although this list will grow over time, one of the easiest ways to research a te
 
 **Client-Side** - Client is an application - such as your web browser (Chrome, Internet Explorer, etc) - running on your local computer.  One piece of the client-server relationship.  Often requests information from the server.
 
+Certified Scrum Master - An official CSM certification
+
 **Data Warehouse** - A repository for data, usually from disparate sources. The common repository allows for more efficient reporting and data analysis.
 
 **Full-Stack** - If someone tells you they are a full-stack developer then that person is saying she has the ability to code user interfaces (front-end), middleware(operating environments and interfaces), and back-end support (like the database or utilities where the underlying code is stored.
